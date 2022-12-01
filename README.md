@@ -12,7 +12,7 @@ MAC应用破解
 - 打开Hopper Disassembler，将需要破解的应用(就是xx.app)拖入到Hopper中
 确认选择界面
 
-![](https://github.com/wangleihi/CrackTest/416012-c27ea02157e7e413.webp)
+![](./416012-c27ea02157e7e413.webp)
 
 加载后的界面,入下图
 ![](https://github.com/wangleihi/CrackTest/416012-845f123a98be2016.webp)

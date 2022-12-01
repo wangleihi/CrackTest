@@ -11,7 +11,9 @@ MAC应用破解
 - 先从xcode build产物中获取xx.app应用
 - 打开Hopper Disassembler，将需要破解的应用(就是xx.app)拖入到Hopper中
 确认选择界面
+
 ![](https://github.com/wangleihi/CrackTest/416012-c27ea02157e7e413.webp)
+
 加载后的界面,入下图
 ![](https://github.com/wangleihi/CrackTest/416012-845f123a98be2016.webp)
 这个界面的布局和Xcode非常相似,大家不要被一些看不懂的内容界面和工具栏迷惑而感到微微的手足无措(笔者第一次看到这个界面,也是茫然的~),我们下面把基本上常用的会一一介绍,其他的的功能按钮,先当作不存在(催眠式提升信心法~~),好,我们先来看一下工具栏下面的左侧Labels窗口:
